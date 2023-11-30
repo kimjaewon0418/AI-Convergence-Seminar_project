@@ -1,0 +1,8 @@
+ quote_plus('upr_cd') : '6410000', //경기도
+ quote_plus('upr_cd') : '6420000', //강원도
+ quote_plus('upr_cd') : '6110000' //서울
+
+
+ quote_plus('kind') : '000067', //진도견
+ quote_plus('kind') : '000072', //말티즈
+ quote_plus('kind') : '000114', //믹스견
